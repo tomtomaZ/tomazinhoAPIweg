@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\obj\Debug\WegSolutionTomazinho.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\obj\Debug\WegSolutionTomazinho.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\bin\Debug\WegSolutionTomazinho.exe.config
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\bin\Debug\WegSolutionTomazinho.exe
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\bin\Debug\WegSolutionTomazinho.pdb
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\obj\Debug\WegSolutionTomazinho.csproj.CopyComplete
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\obj\Debug\WegSolutionTomazinho.exe
+C:\Users\Administrador\Desktop\iotEdge-Carvalheira\WegSolutionTomazinho\WegSolutionTomazinho\obj\Debug\WegSolutionTomazinho.pdb
